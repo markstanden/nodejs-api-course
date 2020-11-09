@@ -1,14 +1,14 @@
-# PROJECT NAME
+# NodeJS API Masterclass Codealong with Brad Traversy
 
 ### WHAT THE PROJECT IS/DOES
 
 #### Why have I made this?
 
-- ?
+- I want to learn to create node JS APIs
 
-#### Why react
+#### Why NodeJS
 
--
+- I've already used express, with typescript, so it seems an excellent starting place
 
 #### What have I learned making this
 
