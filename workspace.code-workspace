@@ -5,7 +5,7 @@
     }
   ],
   "settings": {
-    "terminal.integrated.cwd": "./web",
+    "terminal.integrated.cwd": "./api",
     // Prettier
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
